@@ -1,0 +1,24 @@
+/*a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback*/
+.odd{
+    background-color: pink;
+    font-family: verdana, Dejavu, sans-serif;
+}
+
+/*blue text and a font size of 36px*/
+#even1{
+    color:blue;
+    font-size: 36px;
+}
+
+/*in addition to the styles for all odd numbered elements, add a font size of 24px*/
+.too {
+    font-size: 24px;
+}
+
+/* a light green background, a font size of 24px, and bold
+*/
+#even2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

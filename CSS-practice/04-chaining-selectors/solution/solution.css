@@ -1,0 +1,10 @@
+/*300 pixels wide, then give it a height so that it retains its original square proportions*/
+/*.proportioned{
+    width: 300px;
+}*/
+
+/*200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value)*/
+/*.distorted{
+    width: 200px;
+    height: 400px;
+}*/
